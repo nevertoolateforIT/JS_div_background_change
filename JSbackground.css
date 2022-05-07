@@ -1,14 +1,15 @@
 
 H1 {
     text-align: center;
-
 }
+
 #squares {  
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
-align-content: center;
+    align-content: center;
 }
+
 .tile {
     width: 10em; 
     height: 5em;
